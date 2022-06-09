@@ -28,7 +28,7 @@ TARGET_USERIMAGES_USE_EXT4 := true
 BOARD_CACHEIMAGE_FILE_SYSTEM_TYPE := f2fs
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineage_ms013g_defconfig
+TARGET_KERNEL_CONFIG := lineage_ms01ltekor_defconfig
 
 # Radio/RIL
 include $(COMMON_PATH)/radio/dual/board.mk

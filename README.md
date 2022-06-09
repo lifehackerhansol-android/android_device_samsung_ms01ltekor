@@ -1,4 +1,4 @@
-Device Tree For Samsung Galaxy Grand 2
+Device Tree For Samsung Galaxy Grand 2 (Korean variant)
 ===================================== 
 
 | Basic   | Spec Sheet                  |

@@ -17,7 +17,7 @@
 
 set -e
 
-export DEVICE=ms013g
+export DEVICE=ms01ltekor
 export DEVICE_COMMON=ms01-common
 export VENDOR=samsung
 
