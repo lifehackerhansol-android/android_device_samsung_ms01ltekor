@@ -29,6 +29,7 @@ BOARD_CACHEIMAGE_FILE_SYSTEM_TYPE := f2fs
 
 # Kernel
 TARGET_KERNEL_CONFIG := lineage_ms01ltekor_defconfig
+BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
 # Radio/RIL
 include $(COMMON_PATH)/radio/dual/board.mk
